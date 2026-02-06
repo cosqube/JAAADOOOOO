@@ -29,7 +29,7 @@ Wikipedia: https://en.wikipedia.org/wiki/Koi..._Gaya
 
 ## Live Demo
 
-https://cosqube.github.io/JAAADOOOOO/
+[https://cosqube.github.io/JAAADOOOOO/](https://cosqube.github.io/rohit-mehra-pc/)
 
 ---
 
